@@ -20,6 +20,7 @@ function map = tutte_map(v,f,bdy_index,bdy)
 % https://scholar.harvard.edu/choi
 
 nv = length(v);
+nf = length(f);
 
 % Construct the Tutte Laplacian
 I = reshape(f',nf*3,1);
