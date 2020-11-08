@@ -5,11 +5,11 @@ Any comments and suggestions are welcome.
 
 If you use this code in your own work, please cite the following paper:
 [1] T. W. Meng, G. P.-T. Choi and L. M. Lui, 
-    "TEMPO: Feature-Endowed Teichmüller Extremal Mappings of Point Clouds."
+    "TEMPO: Feature-Endowed TeichmÃ¼ller Extremal Mappings of Point Clouds."
     SIAM Journal on Imaging Sciences, 9(4), pp. 1922-1962, 2016.
 
 Copyright (c) 2015-2018, Gary Pui-Tung Choi
-https://scholar.harvard.edu/choi
+https://math.mit.edu/~ptchoi
 
 ===============================================================
 
