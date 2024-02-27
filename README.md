@@ -14,9 +14,9 @@ If you use this code in your own work, please cite the following paper:
     "[TEMPO: Feature-Endowed Teichmüller Extremal Mappings of Point Clouds.](https://doi.org/10.1137/15m1049117)"
     SIAM Journal on Imaging Sciences, 9(4), pp. 1922-1962, 2016.
 
-Copyright (c) 2015-2018, Gary Pui-Tung Choi
+Copyright (c) 2015-2024, Gary Pui-Tung Choi
 
-https://math.mit.edu/~ptchoi
+https://www.math.cuhk.edu.hk/~ptchoi
 
 ===============================================================
 
